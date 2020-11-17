@@ -1,14 +1,14 @@
 # Coding-Test
 
-This repository contains a solution for a typical coding test. The test involves simulating a car that navigates in a 2D environment. The task is to determine if the simulation results in the car hittig the wall.
+This repository contains a solution for a typical coding test. The test involves simulating a car that navigates in a 2D environment. The task is to determine if the simulation results in the car hitting the wall.
 
 ## Task Instructions
 
-The user should be able to specify the dimensions of the rectangular environment. After that the user should be prompted with specifying the location and orientation of the vehicle. The user can then input a sequence of actions of which the car will execute.
+The user should be able to specify the dimensions of the rectangular environment. After that, the user should be prompted by specifying the location and orientation of the vehicle. The user can then input a sequence of actions which the car will execute.
 
 * **Requirements**
-  * The car can only move to and exist on discrete locations
-  * The direction of the car can only be along the points of the compass
+  * The car can only move to and exist in discrete locations
+  * The direction of the car can only be along with the points of the compass
   * Should be written using C++
 
 
@@ -38,6 +38,8 @@ Run resulting program
 The following could be a potential approach in the future for this project:
 * Use a square structure for world representation. You could then specify more arbitrary spaces.
 * Implement more tests. Specifically for input.
-* Create a specialised error handling class.
-* Standarize code format using code formatter.
-* Improve error feedback to user
+* Create a specialized error handling class.
+* Standardize code format using code formatter.
+* Improve error feedback to the user
+
+

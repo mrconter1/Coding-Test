@@ -41,5 +41,6 @@ The following could be a potential approach in the future for this project:
 * Create a specialized error handling class.
 * Standardize code format using code formatter.
 * Improve error feedback to the user
+* Use standarized way of commenting
 
 

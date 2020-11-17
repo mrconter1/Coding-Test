@@ -27,7 +27,7 @@ Clone the project
 
 Build project
 
-`g++ main.cpp testclass.cpp environment.cpp vehicle.cpp iohandler.cpp -o program`
+`make`
 
 Run resulting program
 
